@@ -44,7 +44,8 @@ of the CodeIgniter User Guide.
 
 `Howto Configurando ambiente de desenvolvimento PHP com CodeIgniter
 <https://mundodacomputacaointegral.blogspot.com.br/2017/05/configurando-ambiente-de-desenvolvimento-php-com-codeigniter.html>`_
-.
+
+
 *******
 License
 *******
